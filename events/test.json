@@ -1,0 +1,27 @@
+[
+  {
+    "id": "double_xp_weekend",
+    "name": "Double XP Weekend",
+    "type": "REAL_WEEKLY",
+    "dayOfWeek": "SATURDAY"
+  },
+  {
+    "id": "halloween_2025",
+    "name": "Halloween 2025 Event",
+    "type": "REAL_TIME",
+    "start": "2025-10-30T00:00:00Z",
+    "end": "2025-11-01T23:59:59Z"
+  },
+  {
+    "id": "blood_moon",
+    "name": "Blood Moon",
+    "type": "GAME_WEEKLY"
+  },
+  {
+    "id": "spring_festival",
+    "name": "Spring Festival",
+    "type": "GAME_TIME",
+    "startDay": 100,
+    "durationDays": 5
+  }
+]
