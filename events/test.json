@@ -28,7 +28,7 @@
     "id": "test_gacha",
     "name": "Gacha",
     "type": "REAL_TIME",
-    "startISO": "2025-8-01T21:00:00Z",
-    "endISO": "2025-8-01T21:05:00Z"
+    "startISO": "2025-08-01T21:00:00Z",
+    "endISO": "2025-08-01T21:05:00Z"
   }
 ]
