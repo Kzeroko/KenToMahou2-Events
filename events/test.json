@@ -3,7 +3,7 @@
     "id": "double_xp_weekend",
     "name": "Double XP Weekend",
     "type": "REAL_WEEKLY",
-    "dayOfWeek": "SATURDAY"
+    "dayOfWeek": "FRIDAY"
   },
   {
     "id": "halloween_2025",
