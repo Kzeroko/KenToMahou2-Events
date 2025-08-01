@@ -23,5 +23,12 @@
     "type": "GAME_TIME",
     "startDay": 100,
     "durationDays": 5
+  },
+  {
+    "id": "test_gacha",
+    "name": "Gacha",
+    "type": "REAL_TIME",
+    "start": "2025-8-01T20:00:00Z",
+    "end": "2025-8-01T20:10:00Z"
   }
 ]
